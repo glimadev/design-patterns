@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chain", "Chain\Chain.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{5B4DE177-5DB9-46B7-B69B-A19872A04AC3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "Iterator\Iterator.csproj", "{06E344EE-C246-4F33-B0E8-40436F0F262F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{5B4DE177-5DB9-46B7-B69B-A19872A04AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B4DE177-5DB9-46B7-B69B-A19872A04AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B4DE177-5DB9-46B7-B69B-A19872A04AC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06E344EE-C246-4F33-B0E8-40436F0F262F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06E344EE-C246-4F33-B0E8-40436F0F262F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06E344EE-C246-4F33-B0E8-40436F0F262F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06E344EE-C246-4F33-B0E8-40436F0F262F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
